@@ -339,7 +339,7 @@ const Login = () => {
                     }
                     label={
                       <Typography variant="body2" color="textSecondary">
-                        {isLogin ? "Need an account? Sign up" : "Already have an account? Sign in"}
+                        {isLogin ? "Need an account? Sign up or you can use username : Aman ,password :password" : "Already have an account? Sign in"}
                       </Typography>
                     }
                   />
