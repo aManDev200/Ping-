@@ -40,8 +40,8 @@ PING! is a feature-rich, real-time chat application built with React, Express, a
 - Frontend: React
 - Backend: Express.js
 - Real-time Communication: Socket.IO
-- Database: [Your database choice, e.g., MongoDB, PostgreSQL]
-- Authentication: [Your auth method, e.g., JWT, Passport.js]
+- Database: [MongoDB]
+- Authentication: [JWT]
 
 ## Prerequisites
 
@@ -52,3 +52,38 @@ PING! is a feature-rich, real-time chat application built with React, Express, a
 ## Installation
 
 1. Clone the repository:
+2. Install dependencies for both frontend and backend:
+3. 3. Set up environment variables:
+- Create a `.env` file in the backend directory
+- Add necessary environment variables (e.g., DATABASE_URL, JWT_SECRET, etc.)
+
+4. Start the backend server:
+5. 5. Start the frontend development server:
+   6. 6. Open your browser and navigate to `http://localhost:3000`
+
+## Usage
+
+1. Register a new account or log in with existing credentials
+2. Search for users and send friend requests
+3. Start chatting with friends or create group chats
+4. Enjoy real-time messaging and file sharing!
+
+## API Documentation
+
+[If you have API documentation, provide a link or brief overview here]
+
+## Contributing
+
+We welcome contributions to PING! Please follow these steps:
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## Acknowledgements
+
+- [Socket.IO](https://socket.io/)
+- [React](https://reactjs.org/)
+- [Express](https://expressjs.com/)
