@@ -68,9 +68,6 @@ PING! is a feature-rich, real-time chat application built with React, Express, a
 3. Start chatting with friends or create group chats
 4. Enjoy real-time messaging and file sharing!
 
-## API Documentation
-
-[If you have API documentation, provide a link or brief overview here]
 
 ## Contributing
 
